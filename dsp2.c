@@ -1,3 +1,4 @@
+//stack operation using array
 #include <stdio.h>
 
 int stack[100], choice, n, top = -1, x, i;
