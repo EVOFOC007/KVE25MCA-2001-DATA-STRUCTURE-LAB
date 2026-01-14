@@ -1,3 +1,4 @@
+//DFS
 #include<stdio.h>
 
 int n, visited[10], G[10][10];
